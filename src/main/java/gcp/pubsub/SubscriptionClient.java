@@ -10,10 +10,10 @@ import gcp.config.Connection;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
-public class SubscriptionTest {
+public class SubscriptionClient {
     private String projectId;
 
-    public SubscriptionTest(String projectId) {
+    public SubscriptionClient(String projectId) {
         this.projectId = projectId;
     }
 
