@@ -1,4 +1,4 @@
-package com.globant;
+package globant;
 
 import java.util.ArrayList;
 import java.util.Arrays;

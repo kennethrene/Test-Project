@@ -1,4 +1,4 @@
-package com.globant;
+package globant;
 
 /*
 Write an algorithm to determine if a number n is happy.

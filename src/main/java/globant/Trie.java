@@ -1,4 +1,4 @@
-package com.globant;
+package globant;
 
 public class Trie {
     private Trie[] node;
